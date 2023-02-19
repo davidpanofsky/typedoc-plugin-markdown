@@ -6,14 +6,18 @@
     "docusaurus-plugin-typedoc": "0.17.6"
   },
   "changesets": [
+    "big-cooks-lick",
     "breezy-avocados-lie",
+    "cuddly-games-pull",
     "fair-rice-smoke",
     "forty-cows-jam",
     "hungry-papayas-punch",
+    "mighty-deers-dress",
     "nasty-starfishes-ring",
     "polite-planets-knock",
     "proud-mugs-pull",
     "selfish-coins-bake",
+    "thin-pigs-shout",
     "twenty-moose-promise"
   ]
 }
