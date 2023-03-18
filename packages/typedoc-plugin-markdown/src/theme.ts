@@ -141,6 +141,7 @@ export class MarkdownTheme extends Theme {
           : reflection.getAlias();
       }
 
+      fragment = fragment.replace(/^_/, '');
       if (!reflection.url || !URL_PREFIX.test(reflection.url)) {
         fragments = [fragment];
 
